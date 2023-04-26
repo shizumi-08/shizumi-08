@@ -3,7 +3,6 @@
 Hi, i'm izumi
 - 🔭 I am currently working on a neural network
 - 🌱 I am currently learning about different areas and languages
-- 💬 Ask me about ...
 - ⚡ Fun fact: I love cats and chocolate
 
 
