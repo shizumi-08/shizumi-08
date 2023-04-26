@@ -1,25 +1,13 @@
 ### Welcome to my profile 👋
 
 Hi, i'm izumi
-
-<!--
-**shizumi-08/shizumi-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I am currently working on a neural network
+- 🌱 I am currently learning about different areas and languages
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Aprendiendo...
+- ⚡ Fun fact: I love cats and chocolate
 
 
+---------------------------------------------------------------------------------------------------------------
 
 
 ## Herramientas
@@ -31,6 +19,7 @@ Aprendiendo...
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
+----------------------------------------------------------------------------------------------------------------
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
