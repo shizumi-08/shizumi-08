@@ -2,7 +2,7 @@
 
 Hi, i'm izumi
 - 🔭 I am currently working on a neural network
-- 🌱 I am currently learning about different areas and languages
+- 🌱 I am currently learning about different areas and programming languages
 - ⚡ Fun fact: I love cats and chocolate
 
 
